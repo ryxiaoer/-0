@@ -1,0 +1,1 @@
+使用CpcFuse类，调用函数pcFuse(argc,argv)融合文件夹argv中的点云文件序列
